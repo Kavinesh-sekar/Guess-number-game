@@ -1,24 +1,13 @@
 
-
-
   #inputno{
-    padding: 0;
-    height: 30px;
-    position: relative;
-    left: 0;
-    outline: none;
+    height: 50px;
     border: 5px solid #cdcdcd;
-    border-color: rgba(0,0,0,.15);
-    background-color: rgb(255, 255, 255);
     font-size: 22px;
 }
 #submit-bt {
     background-color: rgb(4, 0, 255); 
-    border: 10px;
-    color: rgb(255, 255, 255);
     padding: 5px 10px;
-    text-align: center;
-    margin: 5px 5px;
+    margin: 2px 2px;
   }
       
 
